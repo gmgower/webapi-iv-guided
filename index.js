@@ -2,6 +2,8 @@
 
 // ? s5 check .env is in the getignore file.
 
+// ? s6 heroku: select deploy => connect to github repo & connect
+
 // ? s4 install env https://www.npmjs.com/package/dotenv 
 // `yarn add dotenv` and 
 // import and 
